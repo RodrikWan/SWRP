@@ -45,10 +45,6 @@ Si quieres ser staff tendras que mandarle una plantilla a uno de los fundadores,
 -¿Te comprometes a que vas a seguir todas las normas?:
 ```
 
-## Invitaciones:
-
-https://discord.gg/3pr6agX | https://discord.gg/3bmuqb7
-
 ## ¿Quieres patrocinarnos?
 
 Copia Esto (Cambia lo que ponga en parentesis):
@@ -93,3 +89,7 @@ Copia Esto (Cambia lo que ponga en parentesis):
 
 ------------------------------------
 ```
+
+## Invitaciones:
+
+https://discord.gg/3pr6agX | https://discord.gg/3bmuqb7
