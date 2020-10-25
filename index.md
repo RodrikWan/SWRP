@@ -1,5 +1,5 @@
 # Bienvenido a SWRP
-SWRP son comunidades de [Discord](discord.com) de juegos.
+SWRP tiene comunidades de [Discord](discord.com) de juegos.
 Si quieres unirte abajo estan las invitaciones
 
 ## ¿Que ofrecemos?
@@ -8,7 +8,7 @@ Si quieres unirte abajo estan las invitaciones
 
 -〚📊〛Encuestas donde podras participar
 
--〚🔖〛Grran variedad de Auto-Roles
+-〚🔖〛Gran variedad de Auto-Roles
 
 -〚🎁〛Recompensas por invitar personas
 
