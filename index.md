@@ -34,7 +34,7 @@ Si quieres ser staff tendras que mandarle una plantilla a uno de los fundadores,
 
 ### Plantilla:
 
-´´´
+```
 -Nombre(Real):
 -Edad:
 -¿Has sido staff en algun otro servidor? ¿Cual?:
@@ -43,7 +43,7 @@ Si quieres ser staff tendras que mandarle una plantilla a uno de los fundadores,
 -¿Que Experiencia tienes Diseñando?:
 -¿Por qué quieres moderar discord?:
 -¿Te comprometes a que vas a seguir todas las normas?:
-´´´
+```
 
 ## Invitaciones:
 
