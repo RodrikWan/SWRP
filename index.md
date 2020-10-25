@@ -1,45 +1,94 @@
 # Bienvenido a SWRP
+SWRP son comunidades de [Discord](discord.com) de juegos.
+Si quieres unirte abajo estan las invitaciones
 
+## ¿Que ofrecemos?
 
+-〚💬〛Noticias del juego y del servidor
 
+-〚📊〛Encuestas donde podras participar
 
+-〚🔖〛Grran variedad de Auto-Roles
 
+-〚🎁〛Recompensas por invitar personas
 
+-〚🏆〛Torneos con recompensas
 
-## Welcome to GitHub Pages
+-〚🎉〛Sorteos de objetos, moneda, etc del juego
+ 
+-〚🤖〛Gran variedad de Bots y comandos
 
-You can use the [editor on GitHub](https://github.com/RodrikWan/SWRP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-〚⛔️〛Salas Privadas para jugar con tus amigos
+ 
+-〚📢〛Spam para que te promociones (Necesitas unos requisitos)
+ 
+-〚💎〛Spam premium para los que ganen en los torneos y los que hagan boost al servidor.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-〚❓〛Atención al Usuario
 
-### Markdown
+-〚🤩〛Emojis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Aplicacion para Staff
 
-```markdown
-Syntax highlighted code block
+Si quieres ser staff tendras que mandarle una plantilla a uno de los fundadores, si cumples los requisitos podras entrar, si mientes de cualquier cosa o lo haces solo por diversion podria tener consecuencias.
 
-# Header 1
-## Header 2
-### Header 3
+### Plantilla:
 
-- Bulleted
-- List
+-Nombre(Real):
+-Edad:
+-¿Has sido staff en algun otro servidor? ¿Cual?:
+-¿Que Experiencia tienes configurando servidores?:
+-¿Que Experiencia tienes configurando y usando bots?:
+-¿Que Experiencia tienes Diseñando?:
+-¿Por qué quieres moderar discord?:
+-¿Te comprometes a que vas a seguir todas las normas?:
 
-1. Numbered
-2. List
+## Invitaciones:
 
-**Bold** and _Italic_ and `Code` text
+https://discord.gg/3pr6agX | https://discord.gg/3bmuqb7
 
-[Link](url) and ![Image](src)
+## ¿Quieres patrocinarnos?
+
+Copia Esto (Los parentesis los tienes que quitar, SOLO SI LO PATROCINAS EN DISCORD, si no retira todo dentro del parentesis y ya):
+
 ```
+(```)
+-----------〚SWRP〛-----------
+ 
+-〚📢〛Invitación: https://discord.gg/3pr6agX | https://discord.gg/3bmuqb7
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+------------------------------------
+-〚💬〛Comunidades de Juegos
 
-### Jekyll Themes
+-〚📚〛Normas para una comunidad mas segura
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RodrikWan/SWRP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-〚📰〛Noticias del servidor
 
-### Support or Contact
+-〚📊〛Encuestas donde podrás participar
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-〚🔖〛Auto Roles
+
+-〚🎁〛Recompensas por invitar personas
+
+-〚🏆〛Torneos con recompensas
+
+-〚🎉〛Sorteos de objetos, moneda, etc del juego
+ 
+-〚🤖〛Gran variedad de Bots y comandos
+
+-〚⛔️〛Salas Privadas para jugar con tus amigos
+ 
+-〚📢〛Spam para que te promociones (Necesitas unos requisitos)
+ 
+-〚💎〛Spam premium para los que ganen en los torneos y los que hagan boost al servidor.
+
+-〚❓〛Atención al Usuario
+
+-〚🤩〛Emojis
+------------------------------------
+
+-〚📋〛Aplicacion para staff abierta
+
+------------------------------------
+(```)
+```
