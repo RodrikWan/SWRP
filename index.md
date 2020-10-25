@@ -49,13 +49,13 @@ https://discord.gg/3pr6agX | https://discord.gg/3bmuqb7
 
 ## ¿Quieres patrocinarnos?
 
-Copia Esto (Los parentesis los tienes que quitar, SOLO SI LO PATROCINAS EN DISCORD, si no retira todo dentro del parentesis y ya):
+Copia Esto (Cambia lo que ponga en parentesis):
 
 ```
-(```)
 -----------〚SWRP〛-----------
  
--〚📢〛Invitación: https://discord.gg/3pr6agX | https://discord.gg/3bmuqb7
+-〚📢〛Invitación: (Poner vuestras propias invitaciones ya que nos cuentan a nosotros)
+-〚🌐〛Pagina Web: https://rodrikwan.github.io/SWRP/
 
 ------------------------------------
 -〚💬〛Comunidades de Juegos
@@ -90,5 +90,4 @@ Copia Esto (Los parentesis los tienes que quitar, SOLO SI LO PATROCINAS EN DISCO
 -〚📋〛Aplicacion para staff abierta
 
 ------------------------------------
-(```)
 ```
