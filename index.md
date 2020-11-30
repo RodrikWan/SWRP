@@ -1,6 +1,11 @@
 # Bienvenido a SWRP
-SWRP tiene comunidades de [Discord](discord.com) de juegos.
-Si quieres unirte abajo estan las invitaciones
+Una comunidad de discord donde nunca te vas a aburrir.
+Tenemos servers de todos los juegos, metete en el que mas te guste.
+
+## Invitaciones
+[Among Us](https://discord.gg/3bmuqb7)
+[Roblox](https://discord.gg/3pr6agX)
+Minecraft - Pronto!
 
 ## ¿Que ofrecemos?
 
@@ -20,9 +25,9 @@ Si quieres unirte abajo estan las invitaciones
 
 -〚⛔️〛Salas Privadas para jugar con tus amigos
  
--〚📢〛Spam para que te promociones (Necesitas unos requisitos)
+-〚📢〛Spam para que te promociones
  
--〚💎〛Spam premium para los que ganen en los torneos y los que hagan boost al servidor.
+-〚💎〛Spam premium para los VIP
 
 -〚❓〛Atención al Usuario
 
@@ -89,7 +94,3 @@ Copia Esto (Cambia lo que ponga en parentesis):
 
 ------------------------------------
 ```
-
-## Invitaciones:
-
-https://discord.gg/3pr6agX | https://discord.gg/3bmuqb7
