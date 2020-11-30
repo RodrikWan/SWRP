@@ -3,8 +3,8 @@ Una comunidad de discord donde nunca te vas a aburrir.
 Tenemos servers de todos los juegos, metete en el que mas te guste.
 
 ## Invitaciones
-[Among Us](https://discord.gg/3bmuqb7)|
-[Roblox](https://discord.gg/3pr6agX)|
+[Among Us](https://discord.gg/3bmuqb7) |
+[Roblox](https://discord.gg/3pr6agX) |
 Minecraft - Pronto!
 
 ## ¿Que ofrecemos?
