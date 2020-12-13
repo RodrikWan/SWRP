@@ -46,6 +46,7 @@ Si quieres ser staff tendras que mandarle una plantilla a uno de los fundadores,
 -¿Que Experiencia tienes configurando servidores?:
 -¿Que Experiencia tienes configurando y usando bots?:
 -¿Que Experiencia tienes Diseñando?:
+-¿Que Experiencia tienes Moderando?:
 -¿Por qué quieres moderar discord?:
 -¿Te comprometes a que vas a seguir todas las normas?:
 ```
